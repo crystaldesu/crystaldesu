@@ -1,4 +1,5 @@
-Hi there 
+<h1 align="center">Hi there 👋</h1>
+<p align="center">Welcome to my GitHub profile!</p>
 
 [![Crystal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crystaldesu&theme=react-dark)](https://github.com/crystaldesu/github-readme-activity-graph)
 
